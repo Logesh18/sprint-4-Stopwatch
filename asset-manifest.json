@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sprint-4-Stopwatch/static/css/main.30d26998.css",
+    "main.js": "/sprint-4-Stopwatch/static/js/main.4f3de1e3.js",
+    "static/js/787.f39befc0.chunk.js": "/sprint-4-Stopwatch/static/js/787.f39befc0.chunk.js",
+    "index.html": "/sprint-4-Stopwatch/index.html",
+    "main.30d26998.css.map": "/sprint-4-Stopwatch/static/css/main.30d26998.css.map",
+    "main.4f3de1e3.js.map": "/sprint-4-Stopwatch/static/js/main.4f3de1e3.js.map",
+    "787.f39befc0.chunk.js.map": "/sprint-4-Stopwatch/static/js/787.f39befc0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30d26998.css",
+    "static/js/main.4f3de1e3.js"
+  ]
+}
